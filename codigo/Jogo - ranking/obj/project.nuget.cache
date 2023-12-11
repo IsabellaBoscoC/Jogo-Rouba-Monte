@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "b8gIZGpaKrk7nA4FWmzgGy8ltSegBW+FmyYoU/GLaDemeB7Q0u3BG8utEDfJxq9VQ/0l9wxAcz0a/gDh2wShIQ==",
+  "dgSpecHash": "P9l5xuLcvHvw7P0Y34m+r4ddlGF07T7D27kaOwkVa17l6ayEPCyv5CE06kOfqqnzWAC4Sw+lvX1HD5au9ux9Rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\isabe\\OneDrive\\Área de Trabalho\\Jogo-Rouba-Monte\\codigo\\ranking\\Jogo - ranking\\Jogo - ranking.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\isabe\\OneDrive\\Área de Trabalho\\Jogo-Rouba-Monte\\codigo\\Jogo - ranking\\Jogo - ranking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.12\\microsoft.netcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.12\\microsoft.windowsdesktop.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.12\\microsoft.aspnetcore.app.ref.7.0.12.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.12\\microsoft.netcore.app.host.win-x64.7.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
