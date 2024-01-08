@@ -1,0 +1,496 @@
+12023-12-12 17:53:20 - Jogadores da partida:
+2023-12-12 17:53:20 - Nome: Paulo - ID: 1
+2023-12-12 17:53:20 - Nome: Adrielly - ID: 2
+2023-12-12 17:53:23 - 
+Quantidade de baralhos da partida: 1
+
+2023-12-12 17:53:23 - Vez do jogador de id: 1
+2023-12-12 17:53:23 - E nome: Paulo
+
+2023-12-12 17:53:28 - Jogador: Paulo tirou a carta: 3/Espadas
+
+2023-12-12 17:53:28 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:28 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:28 - Vez do jogador de id: 2
+2023-12-12 17:53:28 - E nome: Adrielly
+
+2023-12-12 17:53:30 - Jogador: Adrielly tirou a carta: 3/Paus
+
+2023-12-12 17:53:30 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:30 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:30 - Vez do jogador de id: 2
+2023-12-12 17:53:30 - E nome: Adrielly
+
+2023-12-12 17:53:32 - Jogador: Adrielly tirou a carta: 10/Paus
+
+2023-12-12 17:53:32 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:32 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:32 - Vez do jogador de id: 1
+2023-12-12 17:53:32 - E nome: Paulo
+
+2023-12-12 17:53:34 - Jogador: Paulo tirou a carta: J/Copas
+
+2023-12-12 17:53:34 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:34 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:34 - Vez do jogador de id: 2
+2023-12-12 17:53:34 - E nome: Adrielly
+
+2023-12-12 17:53:35 - Jogador: Adrielly tirou a carta: 9/Ouros
+
+2023-12-12 17:53:35 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:35 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:35 - Vez do jogador de id: 1
+2023-12-12 17:53:35 - E nome: Paulo
+
+2023-12-12 17:53:37 - Jogador: Paulo tirou a carta: 2/Copas
+
+2023-12-12 17:53:37 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:37 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:37 - Vez do jogador de id: 2
+2023-12-12 17:53:37 - E nome: Adrielly
+
+2023-12-12 17:53:38 - Jogador: Adrielly tirou a carta: K/Copas
+
+2023-12-12 17:53:38 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:38 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:38 - Vez do jogador de id: 1
+2023-12-12 17:53:38 - E nome: Paulo
+
+2023-12-12 17:53:39 - Jogador: Paulo tirou a carta: 10/Espadas
+
+2023-12-12 17:53:39 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:39 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:39 - Vez do jogador de id: 1
+2023-12-12 17:53:39 - E nome: Paulo
+
+2023-12-12 17:53:40 - Jogador: Paulo tirou a carta: Q/Paus
+
+2023-12-12 17:53:40 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:40 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:40 - Vez do jogador de id: 2
+2023-12-12 17:53:40 - E nome: Adrielly
+
+2023-12-12 17:53:40 - Jogador: Adrielly tirou a carta: 4/Paus
+
+2023-12-12 17:53:40 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:40 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:40 - Vez do jogador de id: 1
+2023-12-12 17:53:40 - E nome: Paulo
+
+2023-12-12 17:53:41 - Jogador: Paulo tirou a carta: A/Paus
+
+2023-12-12 17:53:41 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:41 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:41 - Vez do jogador de id: 2
+2023-12-12 17:53:41 - E nome: Adrielly
+
+2023-12-12 17:53:42 - Jogador: Adrielly tirou a carta: 8/Paus
+
+2023-12-12 17:53:42 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:42 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:42 - Vez do jogador de id: 1
+2023-12-12 17:53:42 - E nome: Paulo
+
+2023-12-12 17:53:42 - Jogador: Paulo tirou a carta: 5/Paus
+
+2023-12-12 17:53:42 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:42 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:42 - Vez do jogador de id: 2
+2023-12-12 17:53:42 - E nome: Adrielly
+
+2023-12-12 17:53:43 - Jogador: Adrielly tirou a carta: 5/Espadas
+
+2023-12-12 17:53:43 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:43 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:43 - Vez do jogador de id: 2
+2023-12-12 17:53:43 - E nome: Adrielly
+
+2023-12-12 17:53:44 - Jogador: Adrielly tirou a carta: 7/Espadas
+
+2023-12-12 17:53:44 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:44 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:44 - Vez do jogador de id: 1
+2023-12-12 17:53:44 - E nome: Paulo
+
+2023-12-12 17:53:45 - Jogador: Paulo tirou a carta: 6/Ouros
+
+2023-12-12 17:53:45 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:45 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:45 - Vez do jogador de id: 2
+2023-12-12 17:53:45 - E nome: Adrielly
+
+2023-12-12 17:53:46 - Jogador: Adrielly tirou a carta: 4/Copas
+
+2023-12-12 17:53:46 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:46 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:46 - Vez do jogador de id: 2
+2023-12-12 17:53:46 - E nome: Adrielly
+
+2023-12-12 17:53:47 - Jogador: Adrielly tirou a carta: J/Espadas
+
+2023-12-12 17:53:47 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:47 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:47 - Vez do jogador de id: 2
+2023-12-12 17:53:47 - E nome: Adrielly
+
+2023-12-12 17:53:48 - Jogador: Adrielly tirou a carta: 8/Copas
+
+2023-12-12 17:53:48 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:48 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:48 - Vez do jogador de id: 2
+2023-12-12 17:53:48 - E nome: Adrielly
+
+2023-12-12 17:53:48 - Jogador: Adrielly tirou a carta: 7/Copas
+
+2023-12-12 17:53:48 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:48 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:48 - Vez do jogador de id: 2
+2023-12-12 17:53:48 - E nome: Adrielly
+
+2023-12-12 17:53:49 - Jogador: Adrielly tirou a carta: 4/Espadas
+
+2023-12-12 17:53:49 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:49 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:49 - Vez do jogador de id: 1
+2023-12-12 17:53:49 - E nome: Paulo
+
+2023-12-12 17:53:51 - Jogador: Paulo tirou a carta: 9/Espadas
+
+2023-12-12 17:53:51 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:51 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:51 - Vez do jogador de id: 1
+2023-12-12 17:53:51 - E nome: Paulo
+
+2023-12-12 17:53:52 - Jogador: Paulo tirou a carta: A/Copas
+
+2023-12-12 17:53:52 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:52 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:52 - Vez do jogador de id: 1
+2023-12-12 17:53:52 - E nome: Paulo
+
+2023-12-12 17:53:53 - Jogador: Paulo tirou a carta: Q/Espadas
+
+2023-12-12 17:53:53 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:53 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:53 - Vez do jogador de id: 1
+2023-12-12 17:53:53 - E nome: Paulo
+
+2023-12-12 17:53:53 - Jogador: Paulo tirou a carta: 6/Copas
+
+2023-12-12 17:53:53 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:53 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:53 - Vez do jogador de id: 1
+2023-12-12 17:53:53 - E nome: Paulo
+
+2023-12-12 17:53:54 - Jogador: Paulo tirou a carta: 2/Ouros
+
+2023-12-12 17:53:54 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:53:54 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:53:54 - Vez do jogador de id: 1
+2023-12-12 17:53:54 - E nome: Paulo
+
+2023-12-12 17:53:55 - Jogador: Paulo tirou a carta: 3/Copas
+
+2023-12-12 17:53:55 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:55 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:55 - Vez do jogador de id: 2
+2023-12-12 17:53:55 - E nome: Adrielly
+
+2023-12-12 17:53:58 - Jogador: Adrielly tirou a carta: 10/Copas
+
+2023-12-12 17:53:58 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:53:58 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:53:58 - Vez do jogador de id: 1
+2023-12-12 17:53:58 - E nome: Paulo
+
+2023-12-12 17:54:00 - Jogador: Paulo tirou a carta: K/Paus
+
+2023-12-12 17:54:00 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:00 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:00 - Vez do jogador de id: 1
+2023-12-12 17:54:00 - E nome: Paulo
+
+2023-12-12 17:54:00 - Jogador: Paulo tirou a carta: 8/Ouros
+
+2023-12-12 17:54:00 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:00 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:00 - Vez do jogador de id: 2
+2023-12-12 17:54:00 - E nome: Adrielly
+
+2023-12-12 17:54:01 - Jogador: Adrielly tirou a carta: K/Espadas
+
+2023-12-12 17:54:01 - Carta da vez é igual a carta do topo do baralho de outro jogador.
+2023-12-12 17:54:01 - Jogador: Adrielly roubou o monte do jogador de id: 1
+
+2023-12-12 17:54:01 - Carta da vez é igual a carta do topo de seu baralho.
+2023-12-12 17:54:01 - Jogador de id: 2 adicionou a carta da vez ao topo do seu baralho
+
+2023-12-12 17:54:01 - Vez do jogador de id: 2
+2023-12-12 17:54:01 - E nome: Adrielly
+
+2023-12-12 17:54:02 - Jogador: Adrielly tirou a carta: 5/Copas
+
+2023-12-12 17:54:02 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:02 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:02 - Vez do jogador de id: 1
+2023-12-12 17:54:02 - E nome: Paulo
+
+2023-12-12 17:54:03 - Jogador: Paulo tirou a carta: 9/Paus
+
+2023-12-12 17:54:03 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:03 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:03 - Vez do jogador de id: 2
+2023-12-12 17:54:03 - E nome: Adrielly
+
+2023-12-12 17:54:04 - Jogador: Adrielly tirou a carta: 10/Ouros
+
+2023-12-12 17:54:04 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:04 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:04 - Vez do jogador de id: 2
+2023-12-12 17:54:04 - E nome: Adrielly
+
+2023-12-12 17:54:05 - Jogador: Adrielly tirou a carta: 3/Ouros
+
+2023-12-12 17:54:05 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:05 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:05 - Vez do jogador de id: 2
+2023-12-12 17:54:05 - E nome: Adrielly
+
+2023-12-12 17:54:05 - Jogador: Adrielly tirou a carta: 2/Espadas
+
+2023-12-12 17:54:05 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:05 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:05 - Vez do jogador de id: 1
+2023-12-12 17:54:05 - E nome: Paulo
+
+2023-12-12 17:54:06 - Jogador: Paulo tirou a carta: 7/Ouros
+
+2023-12-12 17:54:06 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:06 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:06 - Vez do jogador de id: 2
+2023-12-12 17:54:06 - E nome: Adrielly
+
+2023-12-12 17:54:07 - Jogador: Adrielly tirou a carta: 5/Ouros
+
+2023-12-12 17:54:07 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:07 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:07 - Vez do jogador de id: 2
+2023-12-12 17:54:07 - E nome: Adrielly
+
+2023-12-12 17:54:08 - Jogador: Adrielly tirou a carta: J/Ouros
+
+2023-12-12 17:54:08 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:08 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:08 - Vez do jogador de id: 1
+2023-12-12 17:54:08 - E nome: Paulo
+
+2023-12-12 17:54:08 - Jogador: Paulo tirou a carta: 6/Paus
+
+2023-12-12 17:54:08 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:08 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:08 - Vez do jogador de id: 2
+2023-12-12 17:54:08 - E nome: Adrielly
+
+2023-12-12 17:54:09 - Jogador: Adrielly tirou a carta: J/Paus
+
+2023-12-12 17:54:09 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:09 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:09 - Vez do jogador de id: 2
+2023-12-12 17:54:09 - E nome: Adrielly
+
+2023-12-12 17:54:10 - Jogador: Adrielly tirou a carta: A/Ouros
+
+2023-12-12 17:54:10 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:10 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:10 - Vez do jogador de id: 1
+2023-12-12 17:54:10 - E nome: Paulo
+
+2023-12-12 17:54:11 - Jogador: Paulo tirou a carta: 9/Copas
+
+2023-12-12 17:54:11 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:11 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:11 - Vez do jogador de id: 1
+2023-12-12 17:54:11 - E nome: Paulo
+
+2023-12-12 17:54:11 - Jogador: Paulo tirou a carta: 7/Paus
+
+2023-12-12 17:54:11 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:11 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:11 - Vez do jogador de id: 1
+2023-12-12 17:54:11 - E nome: Paulo
+
+2023-12-12 17:54:12 - Jogador: Paulo tirou a carta: Q/Copas
+
+2023-12-12 17:54:12 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:12 - Jogador de id: 1 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:12 - Vez do jogador de id: 2
+2023-12-12 17:54:12 - E nome: Adrielly
+
+2023-12-12 17:54:13 - Jogador: Adrielly tirou a carta: 4/Ouros
+
+2023-12-12 17:54:13 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:13 - Jogador de id: 2 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:13 - Vez do jogador de id: 2
+2023-12-12 17:54:13 - E nome: Adrielly
+
+2023-12-12 17:54:14 - Jogador: Adrielly tirou a carta: K/Ouros
+
+2023-12-12 17:54:14 - Carta da vez diferente das cartas na área de descarte e das cartas do topo do baralho de outros jogadores.
+2023-12-12 17:54:14 - Jogador de id: 2 adicionou a carta da vez na área de descarte.
+
+2023-12-12 17:54:14 - Vez do jogador de id: 1
+2023-12-12 17:54:14 - E nome: Paulo
+
+2023-12-12 17:54:15 - Jogador: Paulo tirou a carta: 2/Paus
+
+2023-12-12 17:54:15 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:15 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:15 - Vez do jogador de id: 1
+2023-12-12 17:54:15 - E nome: Paulo
+
+2023-12-12 17:54:16 - Jogador: Paulo tirou a carta: 8/Espadas
+
+2023-12-12 17:54:16 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:16 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:16 - Vez do jogador de id: 1
+2023-12-12 17:54:16 - E nome: Paulo
+
+2023-12-12 17:54:16 - Jogador: Paulo tirou a carta: Q/Ouros
+
+2023-12-12 17:54:16 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:16 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:16 - Vez do jogador de id: 1
+2023-12-12 17:54:16 - E nome: Paulo
+
+2023-12-12 17:54:17 - Jogador: Paulo tirou a carta: 6/Espadas
+
+2023-12-12 17:54:17 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:17 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:17 - Vez do jogador de id: 1
+2023-12-12 17:54:17 - E nome: Paulo
+
+2023-12-12 17:54:18 - Jogador: Paulo tirou a carta: A/Espadas
+
+2023-12-12 17:54:18 - Carta da vez é igual a uma carta da área de descarte.
+2023-12-12 17:54:18 - Jogador de id: 1 adicionou ao topo do seu baralho a carta da área de descarte e a carta da vez.
+
+2023-12-12 17:54:18 - Vez do jogador de id: 1
+2023-12-12 17:54:18 - E nome: Paulo
+
+2023-12-12 17:54:19 - Vez do jogador de id: 2
+2023-12-12 17:54:19 - E nome: Adrielly
+
+2023-12-12 17:54:19 - 
+As cartas do baralho acabaram...
+
+2023-12-12 17:54:19 - 
+ ----- FIM DO JOGO ------
+
+2023-12-12 17:54:19 - Quantidade de cartas na mão dos jogadores:
+2023-12-12 17:54:19 - Jogador 2 tem 38 cartas, e está em 1º lugar
+2023-12-12 17:54:19 - Jogador 1 tem 14 cartas, e está em 2º lugar
+2023-12-12 17:54:19 - 
+ O JOGADOR VENCEDOR É O DE ID: 2 com 38 cartas.
+2023-12-12 17:54:19 - 
+Cartas ordenadas do jogador vencedor (ID: 2):
+2023-12-12 17:54:19 - Naipe: Copas - Número: 10
+2023-12-12 17:54:19 - Naipe: Espadas - Número: 10
+2023-12-12 17:54:19 - Naipe: Ouros - Número: 10
+2023-12-12 17:54:19 - Naipe: Paus - Número: 10
+2023-12-12 17:54:20 - Naipe: Copas - Número: 2
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 2
+2023-12-12 17:54:20 - Naipe: Copas - Número: 3
+2023-12-12 17:54:20 - Naipe: Espadas - Número: 3
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 3
+2023-12-12 17:54:20 - Naipe: Paus - Número: 3
+2023-12-12 17:54:20 - Naipe: Copas - Número: 4
+2023-12-12 17:54:20 - Naipe: Espadas - Número: 4
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 4
+2023-12-12 17:54:20 - Naipe: Paus - Número: 4
+2023-12-12 17:54:20 - Naipe: Copas - Número: 5
+2023-12-12 17:54:20 - Naipe: Espadas - Número: 5
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 5
+2023-12-12 17:54:20 - Naipe: Paus - Número: 5
+2023-12-12 17:54:20 - Naipe: Copas - Número: 6
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 6
+2023-12-12 17:54:20 - Naipe: Copas - Número: 7
+2023-12-12 17:54:20 - Naipe: Espadas - Número: 7
+2023-12-12 17:54:20 - Naipe: Copas - Número: 8
+2023-12-12 17:54:20 - Naipe: Paus - Número: 8
+2023-12-12 17:54:20 - Naipe: Espadas - Número: 9
+2023-12-12 17:54:20 - Naipe: Ouros - Número: 9
+2023-12-12 17:54:20 - Naipe: Copas - Número: A
+2023-12-12 17:54:20 - Naipe: Paus - Número: A
+2023-12-12 17:54:20 - Naipe: Copas - Número: J
+2023-12-12 17:54:20 - Naipe: Espadas - Número: J
+2023-12-12 17:54:20 - Naipe: Ouros - Número: J
+2023-12-12 17:54:20 - Naipe: Paus - Número: J
+2023-12-12 17:54:20 - Naipe: Copas - Número: K
+2023-12-12 17:54:20 - Naipe: Espadas - Número: K
+2023-12-12 17:54:20 - Naipe: Espadas - Número: K
+2023-12-12 17:54:20 - Naipe: Paus - Número: K
+2023-12-12 17:54:20 - Naipe: Espadas - Número: Q
+2023-12-12 17:54:20 - Naipe: Paus - Número: Q
+2023-12-12 17:56:34 - Jogadores da partida:
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:56:34 - Nome: Paulo - ID: 1
+2023-12-12 17:59:26 - 
+Quantidade de baralhos da partida: 0
+
